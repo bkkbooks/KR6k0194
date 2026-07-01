@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0194/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 菩薩戒本持犯要記
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1907.xml
+    old_id: T45n1907
+hash: sha256:efc573145d9b432fa55db930ab3de3a5122bb14fac6edef201ab205d7a96c8fe

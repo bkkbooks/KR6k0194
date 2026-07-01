@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6k0194/T/v1
+canonical_location: https://kanripo.org/bkk/KR6k0194/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 菩薩戒本持犯要記
+  identifiers:
+    krp: KR6k0194
+    cbeta: T45n1907
+    cbeta_old_id: T45n1907
+    authorityid: CA0000975
+    json_key: T1907
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1907.xml
+    old_id: T45n1907
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0194_000-T.yaml, hash: 'sha256:efc573145d9b432fa55db930ab3de3a5122bb14fac6edef201ab205d7a96c8fe'}
+  - {seq: 1, filename: KR6k0194_001-T.yaml, hash: 'sha256:e7266db14724b3e8c42ec6f56f4b8559f4c3d7be8bd866220ff360445ee9302c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0194_000-T.markers.yaml, hash: 'sha256:1c9d20f35a8a4d4b3246e99b3f7d969e136f691f321465883f0236ba4af17bad'}
+  - {seq: 1, role: markers, filename: assets/KR6k0194_001-T.markers.yaml, hash: 'sha256:aed09b59010ad40a23f7f916c1bf572ef57158d2fccf3cf23a8f062f7cb49af8'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0194_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4726
+  label: 菩薩戒本持犯要記
+  type: juan
+  level: 1
+hash: sha256:d803d8ab5187587e39505c9a8822435460ef8c466e62ea4fbd48a1958a198309
